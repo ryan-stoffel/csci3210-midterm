@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+db.sqlite3
+
+# Node
+node_modules/
+dist/
+
+# Environment (commit .env.example only)
+.env
+.env.local
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
